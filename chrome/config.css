@@ -37,6 +37,8 @@
 
     /******WINDOW CONTROL PLACEMENT VARS******/
     --wc-vertical-shift: 18px;
+    /* For Ubuntu */
+    /* --wc-vertical-shift: 12px; */
     /* larger value moves window controls down,*/
     /* can be negative(moves controls up) */
     /* Experiemntal: 55px if tabline visible, -25px if tabline hidden */
